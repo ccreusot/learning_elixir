@@ -32,5 +32,10 @@
 .invalid-feedback {
   color: #a94442;
   display: block;
-  margin: -1rem 0 2rem;
+  margin: 0rem 0 2rem;
+  text-transform: capitalize;
+}
+.form-group {
+  position: relative;
+  margin-bottom: 25px;
 }
