@@ -35,4 +35,5 @@ npm-debug.log
 
 /.env
 
+# or use **/*.secret.exs
 **/dev.secret.exs
